@@ -1,4 +1,4 @@
-# ed-wiki
+# ed-site
 My public site's source code.
 
 This is currently under construction as I investigate tooling.
